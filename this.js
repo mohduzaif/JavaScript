@@ -48,3 +48,11 @@ var obj = {
     square,
 };
 obj.square();
+
+function Name(fName, lName) {
+    this.fName = fName;
+    this.lName = lName;
+};
+//when we use new keyword then it will make an empty object and then add property (fName, lName)
+let name1 = new Name("Mohd", "Uzaif");
+console.log(name1);

@@ -1,0 +1,12 @@
+
+{
+    "name" : "Vivek Thakur",
+    "age" : 23,
+    "College" : "Jamia Millia Islamia",
+    "Address" : {
+        "Village" : "Malakpur",
+        "Post" : "Chilkana",
+        "District" : "Aligarh" 
+    },
+    "marks" : [55, 82, 90, 86, 95]
+}
